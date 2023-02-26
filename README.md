@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Müzeyyen Sude</h1>
-- 🌱 I’m currently learning Python (hopefully)
+🌱 I’m currently learning Python (hopefully)
 
-- 📫 How to reach me **ersarisude6@gmail.com**
+📫 How to reach me **ersarisude6@gmail.com**
 
-- ⚡ Fun fact I am a writer from another planet.
+⚡ Fun fact I am a writer from another planet.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
